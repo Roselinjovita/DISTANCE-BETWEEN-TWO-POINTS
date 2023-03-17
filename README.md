@@ -36,7 +36,9 @@ print("{:.2f}".format(distance))
 
 ### OUTPUT:
 
- file:///home/sec/DISTANCE-BETWEEN-TWO-POINTS/distance.png
+
+![distance](https://user-images.githubusercontent.com/119104296/225909613-2e9cfe1a-4141-4686-a368-24ed3b2cd89c.png)
+
 
 
 
