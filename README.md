@@ -14,7 +14,7 @@ A progran to find distance between two points
 Get the input values
 
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula  ![formula] √((x_2-x_1)²+(y_2-y_1)²)
 
 ### Step 4: 
 After substituting the values enter the formula
